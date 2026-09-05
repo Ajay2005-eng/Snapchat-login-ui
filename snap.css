@@ -1,0 +1,116 @@
+
+
+#box {
+    height: 600px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+    margin: auto;
+
+
+
+    .logo {
+        img {
+            height: 90px;
+            width: 90px;
+            margin-left: 200px;
+            margin-top: 20px;
+        }
+    }
+
+
+
+    .head {
+
+        h1 {
+            color: black;
+            text-align: center;
+            margin-top: 10px;
+
+        }
+    }
+
+    .input {
+        text-align: left;
+        font-size: 20px;
+        font-weight: bold;
+        padding-left: 20px;
+    }
+
+    .aaa {
+        input {
+            height: 40px;
+            width: 450px;
+            border: 1px solid black;
+            border-radius: 5px;
+            margin-left: 20px;
+            margin-top: -5px;
+        }
+    }
+
+    .para {
+        text-align: center;
+        padding-top: 5px;
+        color: blue;
+    }
+
+    .but {
+        position: relative;
+        left: 180px;
+        top: 20px;
+
+        button {
+            height: 40px;
+            width: 120px;
+            color: white;
+            font-size: 25px;
+            background-color: lightblue;
+            border-radius: 10px;
+            border: 1px solid lightblue;
+
+        }
+    }
+
+    .or {
+        p {
+            margin-left: 120px;
+            margin-top: 40px;
+        }
+    }
+
+
+    .butA {
+        img {
+            height: 30px;
+            width: 30px;
+            position: relative;
+            left: 135px;
+            top: 10px;
+
+        }
+
+        button {
+            height: 45px;
+            width: 400px;
+            border-radius: 10px;
+            border: 1px solid gainsboro;
+            background-color: white;
+            font-size: 15px;
+            margin-top: 40px;
+            margin-left: 10px;
+        }
+    }
+
+
+    .last {
+        a {
+
+            text-align: center;
+            position: relative;
+            left: 170px;
+            top: 30px;
+
+        }
+    }
+}
